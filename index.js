@@ -41,4 +41,3 @@ async function getWeather(city) {
     console.error('Error fetching weather:', err.message);
   }
 })();
-node_modules
